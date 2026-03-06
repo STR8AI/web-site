@@ -3,7 +3,7 @@
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */ {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "web-site",
+	"name": "lukairo-dashboard",
 	"compatibility_date": "2025-10-08",
 	"main": "./workers/app.ts",
 	"vars": {
